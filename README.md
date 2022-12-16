@@ -1,9 +1,9 @@
 ### Selamlar 👋
 
-Bilgi Üniversitesi'nde Siber Güvenlik 1. Sınıf öğrencisiyim.
-Şu an Rust ve Solidity öğrenmeye çalışıyorum.
-Amacım gelecekte Blockchain ve Veri Güvenliği üzerine yoğunlaşmak.
-Sosyal medya kullanmıyorum.
+- Bilgi Üniversitesi'nde Siber Güvenlik 1. Sınıf öğrencisiyim.
+- Şu an Rust ve Solidity öğrenmeye çalışıyorum.
+- Amacım gelecekte Blockchain ve Veri Güvenliği üzerine yoğunlaşmak.
+- Sosyal medya kullanmıyorum.
 
 <!--
 **devrimaltuncu/devrimaltuncu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
