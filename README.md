@@ -1,7 +1,6 @@
 ### Selamlar 👋
 
 - Bilgi Üniversitesi'nde Siber Güvenlik 1. Sınıf öğrencisiyim.
-- Şu an Rust ve Solidity öğrenmeye çalışıyorum.
 - Amacım gelecekte Blockchain ve Veri Güvenliği üzerine yoğunlaşmak.
 
 <!--
